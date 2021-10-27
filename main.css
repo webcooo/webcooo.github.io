@@ -1,0 +1,17 @@
+.bg {
+  background-image: url('bgimg.jpg');
+  background-color: black;
+}
+.logo {
+  height: 400px;
+  width: 400px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.text {
+  font-size: 35px;
+  font-family: Sans-Serif;
+  text-align: right;
+  color: rgb(200,200,200);
+}
